@@ -1,0 +1,25 @@
+body {
+     background-image: url("tesla_roadster_01.jpg")
+    
+    
+
+}
+#tesla{
+    max-width: 200px;
+    height: 500%;
+
+
+}
+h1{
+    font-style: italic;
+    font-stretch: expanded;
+    font: 800;
+
+}
+#san{
+    font-style: oblique;
+    font: weight 3px;
+    font-kerning: inherit;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-feature-settings: "abvs";
+}
